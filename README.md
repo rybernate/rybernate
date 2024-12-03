@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @rybernate
-- 👀 I’m interested in advancing my coding skills
-- 🌱 I’m currently working on my JavaScript Algorithms and Data Structures certification via freeCodeCamp.org
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can swim in lava (but only once).
 
